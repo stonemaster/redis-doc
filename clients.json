@@ -868,9 +868,18 @@
     "name": "Tiny Redis",
     "language": "D",
     "url": "http://adilbaig.github.io/Tiny-Redis/",
-    "repository": "https://github.com/adilbaig/Tiny-Redis",
+    "repository": "https://github.com/rejectedsoftware/vibe.d",
     "description": "A Redis client for D2. Supports pipelining, transactions and Lua scripting",
     "authors": ["aidezigns"]
+  },
+
+  {
+    "name": "Vibe.d",
+    "language": "D",
+    "url": "http://vibed.org",
+    "repository": "https://github.com/rejectedsoftware/vibe.d",
+    "description": "The Vibe.d framework includes an asynchronous Redis client which also supports high-level ORM primitives",
+    "authors": ["rejectedsoftware"]
   },
 
   {
